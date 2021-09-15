@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    },
+    "indentRainbow.ignoreLinePatterns": [
+    
+        "/[ \t]* [*]/g",
+        "/[ \t]+[/]{2}/g"
+    ]
+}
